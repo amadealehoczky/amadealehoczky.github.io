@@ -5,4 +5,8 @@ Hello! My name is Amadea Lehoczky Escobar, and I'm a senior at Lehigh University
 **Where do Lehigh undergraduates live?** 
 &nbsp;  
 This data was reported by the Lehigh University Office of Institutional Data's Fall 2024 Lehigh University profile. The prevalence of on-campus residence hall living underscores its importance to the undergraduate experience and demonstrates that it's an area the university should invest in. 
-Original Data Set ![Original Data Set](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
+## Data Sources
+
+This project utilizes data from the following source:
+
+* **Lehigh University Profile 2024:** This PDF document provides key statistics and information about Lehigh University. It was used as the basis for the dataset. [Lehigh University Profile 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
