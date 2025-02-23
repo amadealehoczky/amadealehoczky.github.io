@@ -1,6 +1,10 @@
-Hello! My name is Amadea Lehoczky Escobar, and I'm a senior at Lehigh University majoring in Journalism and Sociology with a Marketing minor. I'm passionate about uncovering and amplifying impactful stories across traditional and emerging platforms.
-&nbsp;  https://www.linkedin.com/in/amadealehoczky
-&nbsp;   
+# Amadea Lehoczky Escobar
+
+## Senior at Lehigh University | Journalism & Sociology | Marketing Minor
+
+Hello! 👋 I'm passionate about uncovering and amplifying impactful stories across traditional and emerging platforms.
+
+* **LinkedIn:** [https://www.linkedin.com/in/amadealehoczky](https://www.linkedin.com/in/amadealehoczky)
 ![Where do Lehigh undergraduates live?](https://github.com/amadealehoczky/lehigh-student.github.io/blob/main/4.7%25%20of%20Lehigh%20students%20live%20in.jpg?raw=true)
 **Where do Lehigh undergraduates live?** 
 &nbsp;  
