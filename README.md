@@ -12,4 +12,4 @@ This data was reported by the Lehigh University Office of Institutional Data's F
 This project utilizes data from the following source:
 
 * **Lehigh University Profile 2024:** This PDF document provides key statistics and information about Lehigh University. It was used as the basis for the dataset. [Lehigh University Profile 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
-# **Tate McRae's Life** ![Tate McRae Timeline](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18c9-YtWiwoYTO5qlGDuO2P4LsRrv0JR3Yg46-RebIhA&font=Default&lang=en&initial_zoom=2&height=650)
+# **Tate McRae's Life** ![Tate McRae Timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18c9-YtWiwoYTO5qlGDuO2P4LsRrv0JR3Yg46-RebIhA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
