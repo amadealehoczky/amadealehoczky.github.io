@@ -9,7 +9,7 @@ This data was reported by the Lehigh University Office of Institutional Data's F
 
 This project utilizes data from the following source:
 
-* **Lehigh University Profile 2024:** This PDF document provides key statistics and information about Lehigh University. It was used as the basis for the dataset. [Lehigh University Profile 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
+* **[Lehigh University Profile 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf):** This document provides key statistics and information about Lehigh University's enrollment in the Fall of 2024. 
 
 # **Tate McRae's Life** 
 
@@ -21,4 +21,4 @@ The data represents undergraduate student enrollment across Lehigh University's 
 
 This project utilizes data from the following source:
 
-* **Lehigh University Profile 2024:** This PDF document provides key statistics and information about Lehigh University. It was used as the basis for the dataset. [Lehigh University Profile 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
+* **[Lehigh University Profile 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf):** This document provides key statistics and information about Lehigh University's enrollment in the Fall of 2024. 
