@@ -22,3 +22,11 @@ The data represents undergraduate student enrollment across Lehigh University's 
 This project utilizes data from the following source:
 
 * **[Lehigh University Profile 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf):** This document provides key statistics and information about Lehigh University's enrollment in the Fall of 2024. 
+
+# **Understanding the Lehigh Valley** ![The_Lehigh_Valley_Population_Median_Value_of_owner-occupied_housing_units_Median_Income_chartbuilder](https://github.com/user-attachments/assets/9a31b466-9449-4e4e-83e0-518ec88b0eeb)
+
+This bar graph compares the population, home values, and incomes of Bethlehem, Allentown, and Easton — the three cities forming Pennsylvania's Lehigh Valley — highlighting key socio-economic differences.
+
+This project utilizes data from the following sources:
+
+* **[Bethlehem Census Data](https://www.census.gov/quickfacts/fact/table/bethlehemcitypennsylvania/HSG495223), [Allentown Census Data](https://www.census.gov/quickfacts/fact/table/allentowncitypennsylvania/PST045223), [Easton Census Data](https://www.census.gov/quickfacts/fact/table/eastoncitypennsylvania/BZA110222):** This census data illustrates key statistics to reveal socio-economic patterns in the three cities. 
