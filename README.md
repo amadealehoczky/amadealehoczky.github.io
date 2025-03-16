@@ -31,7 +31,7 @@ This project utilizes data from the following sources:
 
 * **[Bethlehem Census Data](https://www.census.gov/quickfacts/fact/table/bethlehemcitypennsylvania/HSG495223), [Allentown Census Data](https://www.census.gov/quickfacts/fact/table/allentowncitypennsylvania/PST045223), [Easton Census Data](https://www.census.gov/quickfacts/fact/table/eastoncitypennsylvania/BZA110222):** This census data illustrates key statistics to reveal socio-economic patterns in the three cities. 
 
-# **U.S. Women's Soccer Attendance** ![National_Women's_Soccer_League_Attendance_Total_Average_Attendance_Attendance_for_Most_Attended_Team_Average_for_Least_Attended_Team_chartbuilder](https://github.com/user-attachments/assets/9c9dfb34-a7f9-4951-b727-3e456d14b003)
+# **U.S. Women's Soccer Attendance** ![National_Women's_Soccer_League_Attendance_Total_Average_Attendance_Attendance_for_Most_Attended_Team_Average_for_Least_Attended_Team_chartbuilder](https://github.com/user-attachments/assets/06944c7d-b683-4787-9c34-6ad0a222bead)
 
 Women's sports are experiencing significant growth in the U.S. While the WNBA, featuring stars like Caitlin Clark and Angel Reese, saw record attendance in 2024, this line chart highlights the rising popularity of the National Women's Soccer League (NWSL), the second most-watched women's sport. This data underscores the value of investing in and supporting women's sports, which are demonstrably gaining momentum.
 
