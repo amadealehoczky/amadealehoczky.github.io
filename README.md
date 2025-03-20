@@ -38,3 +38,7 @@ Women's sports are experiencing significant growth in the U.S. While the WNBA, f
 This project utilizes data from the following sources:
 
 * **[World Soccer Talk](https://worldsoccertalk.com/news/uswnt-2023-attendance-best-since-2019-20231211-WST-475322.html):** This data reveals the annual attendance figures for National Women's Soccer League (NWSL) games, highlighting the attendance disparity between the league's most and least popular teams.
+
+# **World's Top 20 Bike-Friendly Cities** 
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1TgyS8zI_3ToBl4iJvbMKhh8DzddgMtw&ehbc=2E312F" width="640" height="480"></iframe>
