@@ -42,3 +42,6 @@ This project utilizes data from the following sources:
 # **World's Top 20 Bike-Friendly Cities** 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1TgyS8zI_3ToBl4iJvbMKhh8DzddgMtw&ehbc=2E312F" width="640" height="480"></iframe>
+
+# **World's Top 10 Largest Music Festivals** 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SKk9gPZDsu4LQdQXbuMuNM1qV5khkpc&ehbc=2E312F" width="640" height="480"></iframe>
