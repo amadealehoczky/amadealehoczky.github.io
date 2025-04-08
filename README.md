@@ -35,7 +35,7 @@ This project utilizes data from the following sources:
 
 Women's sports are experiencing significant growth in the U.S. While the WNBA, featuring stars like Caitlin Clark and Angel Reese, saw record attendance in 2024, this line chart highlights the rising popularity of the National Women's Soccer League (NWSL), the second most-watched women's sport. This data underscores the value of investing in and supporting women's sports, which are demonstrably gaining momentum.
 
-This project utilizes data from the following sources:
+This project utilizes data from the following source:
 
 * **[World Soccer Talk](https://worldsoccertalk.com/news/uswnt-2023-attendance-best-since-2019-20231211-WST-475322.html):** This data reveals the annual attendance figures for National Women's Soccer League (NWSL) games, highlighting the attendance disparity between the league's most and least popular teams.
 
