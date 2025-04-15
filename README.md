@@ -1,10 +1,14 @@
 # Hello! 👋
 
-My name is Amadea Lehoczky Escobar, and I'm a senior at Lehigh University majoring in Journalism and Sociology with a Marketing minor. I'm passionate about uncovering and amplifying impactful stories across traditional and emerging platforms.
+My name is Amadea Lehoczky Escobar, and I'm a senior at Lehigh University majoring in Journalism and Sociology with a Marketing minor. Originally from New York City, I'm passionate about uncovering and amplifying impactful stories across traditional and emerging platforms.
 
-* LinkedIn: [https://www.linkedin.com/in/amadealehoczky](https://www.linkedin.com/in/amadealehoczky)
+* Connect with me on LinkedIn: [https://www.linkedin.com/in/amadealehoczky](https://www.linkedin.com/in/amadealehoczky)
+
+Please see my data journalism portfolio from Spring 2025 below.
 
 # Lehigh University Projects 
+
+This section highlights projects I've developed with a focus on the Lehigh University student experience. Located in Bethlehem, Pennsylvania, Lehigh University is a private institution known for its rigorous academic programs and a dynamic social environment that caters to its 7,692 students. The projects presented here delve into various aspects of student life, including analyses of student demographics and nightlife preferences. Furthermore, this section aims to provide a broader understanding of Lehigh University's position within the vibrant Lehigh Valley region and in comparison to other universities across Pennsylvania.
 
 ## **Where do Lehigh undergraduates live?** ![Lehigh Housing Data](https://github.com/amadealehoczky/lehigh-student.github.io/blob/main/4.7%25%20of%20Lehigh%20students%20live%20in.jpg?raw=true)
 
@@ -22,14 +26,6 @@ This project utilizes data from the following source:
 
 * **[Lehigh University Profile 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf):** This document provides key statistics and information about Lehigh University's enrollment in the Fall of 2024. 
 
-## **Understanding the Lehigh Valley** ![The_Lehigh_Valley_Population_Median_Value_of_owner-occupied_housing_units_Median_Income_chartbuilder](https://github.com/user-attachments/assets/9a31b466-9449-4e4e-83e0-518ec88b0eeb)
-
-This bar graph compares the population, home values, and incomes of Bethlehem, Allentown, and Easton — the three cities forming Pennsylvania's Lehigh Valley — highlighting key socio-economic differences.
-
-This project utilizes data from the following sources:
-
-* **[Bethlehem Census Data](https://www.census.gov/quickfacts/fact/table/bethlehemcitypennsylvania/HSG495223), [Allentown Census Data](https://www.census.gov/quickfacts/fact/table/allentowncitypennsylvania/PST045223), [Easton Census Data](https://www.census.gov/quickfacts/fact/table/eastoncitypennsylvania/BZA110222):** This census data illustrates key statistics to reveal socio-economic patterns in the three cities. 
-
 ## **Lehigh University Student Night Life Preferences** 
 <div class='tableauPlaceholder' id='viz1743737790407' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17437376472490&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17437376472490&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17437376472490&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1743737790407'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1227px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
@@ -38,6 +34,14 @@ At the time of this survey, Lehigh University consistently ranked among the top 
 This project utilizes data from the following source:
 
 * **Lehigh University Student Survey:** This comprehensive survey of over 500 Lehigh University students explores their party preferences. The survey was conducted in 2016 by students at Lehigh University in the JOUR025 Data Journalism course. 
+
+## **Understanding the Lehigh Valley** ![The_Lehigh_Valley_Population_Median_Value_of_owner-occupied_housing_units_Median_Income_chartbuilder](https://github.com/user-attachments/assets/9a31b466-9449-4e4e-83e0-518ec88b0eeb)
+
+This bar graph compares the population, home values, and incomes of Bethlehem, Allentown, and Easton — the three cities forming Pennsylvania's Lehigh Valley — highlighting key socio-economic differences.
+
+This project utilizes data from the following sources:
+
+* **[Bethlehem Census Data](https://www.census.gov/quickfacts/fact/table/bethlehemcitypennsylvania/HSG495223), [Allentown Census Data](https://www.census.gov/quickfacts/fact/table/allentowncitypennsylvania/PST045223), [Easton Census Data](https://www.census.gov/quickfacts/fact/table/eastoncitypennsylvania/BZA110222):** This census data illustrates key statistics to reveal socio-economic patterns in the three cities. 
 
 ## **Comparing Pennsylvania Universities** 
 <div class='tableauPlaceholder' id='viz1744073613831' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PennsylvaniaUniversities&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PennsylvaniaUniversities&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pe&#47;PennsylvaniaUniversities&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1744073613831');var vizElement = divElement.getElementsByTagName('object')[0];if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
@@ -50,6 +54,10 @@ This project utilizes data from the following source:
 
 
 # Additional Projects
+This section showcases miscellaneous data-driven explorations into global culture. This encompasses a range of topics I'm interested in, such as music trends, sports analytics, and patterns in transportation systems around the world.
+
+## **World's Top 10 Largest Music Festivals** 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SKk9gPZDsu4LQdQXbuMuNM1qV5khkpc&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## **Tate McRae's Life** 
 
@@ -66,6 +74,3 @@ This project utilizes data from the following source:
 ## **World's Top 20 Bike-Friendly Cities** 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1TgyS8zI_3ToBl4iJvbMKhh8DzddgMtw&ehbc=2E312F" width="640" height="480"></iframe>
-
-## **World's Top 10 Largest Music Festivals** 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SKk9gPZDsu4LQdQXbuMuNM1qV5khkpc&ehbc=2E312F" width="640" height="480"></iframe>
