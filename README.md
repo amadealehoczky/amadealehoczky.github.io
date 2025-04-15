@@ -74,7 +74,7 @@ This project utilizes data from the following source:
 
 * **[Tate McRae Wikipedia](https://tatemcrae.fandom.com/wiki/Tate_McRae):** This biography, compiled by the Tate McRae fandom Wikipedia, highlights key moments in the popstar's life from birth to the present.
 
-## **U.S. Women's Soccer Attendance** ![National_Women's_Soccer_League_Attendance_Total_Average_Attendance_Attendance_for_Most_Attended_Team_Average_for_Least_Attended_Team_chartbuilder](https://github.com/user-attachments/assets/06944c7d-b683-4787-9c34-6ad0a222bead)
+## **United States Women's Soccer Attendance** ![National_Women's_Soccer_League_Attendance_Total_Average_Attendance_Attendance_for_Most_Attended_Team_Average_for_Least_Attended_Team_chartbuilder](https://github.com/user-attachments/assets/06944c7d-b683-4787-9c34-6ad0a222bead)
 
 Women's sports are experiencing significant growth in the U.S. While the WNBA, featuring stars like Caitlin Clark and Angel Reese, saw record attendance in 2024, this line chart highlights the rising popularity of the National Women's Soccer League (NWSL), the second most-watched women's sport. This data underscores the value of investing in and supporting women's sports, which are demonstrably gaining momentum.
 
