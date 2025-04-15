@@ -26,7 +26,7 @@ This project utilizes data from the following source:
 
 * **[Lehigh University Profile 2024](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf):** This document provides key statistics and information about Lehigh University's enrollment in the Fall of 2024. 
 
-## **Lehigh University Student Night Life Preferences** 
+## **Lehigh University Student Nightlife Preferences** 
 <div class='tableauPlaceholder' id='viz1743737790407' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17437376472490&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17437376472490&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17437376472490&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1743737790407'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='420px';vizElement.style.maxWidth='650px';vizElement.style.width='100%';vizElement.style.minHeight='587px';vizElement.style.maxHeight='887px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1227px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
 At the time of this survey, Lehigh University consistently ranked among the top party schools in the nation. As nightlife at the university is characterized by on-campus and off-campus parties, this data considers how these preferences vary among different demographic groups. 
@@ -54,14 +54,25 @@ This project utilizes data from the following source:
 
 
 # Additional Projects
-This section showcases miscellaneous data-driven explorations into global culture. This encompasses a range of topics I'm interested in, such as music trends, sports analytics, and patterns in transportation systems around the world.
+This section showcases miscellaneous data-driven explorations into global culture. This encompasses a range of topics I'm interested in, such as music trends, sports analytics, and patterns in transportation around the world.
 
 ## **World's Top 10 Largest Music Festivals** 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SKk9gPZDsu4LQdQXbuMuNM1qV5khkpc&ehbc=2E312F" width="640" height="480"></iframe>
 
-## **Tate McRae's Life** 
+This map visualizes the world's top 10 largest music festivals based on attendance figures. Notably, the United States hosts the highest number of these festivals, with four featured. The map further highlights that the majority of the world's largest music festivals are concentrated in the United States and Europe.
+This project utilizes data from the following source:
+
+* **[Rebel Music](https://rebelmusic.info/biggest-music-festivals/):** This article presents the 20 largest music festivals globally, ranked by attendance.
+
+## **The Evolution of Tate McRae: A Visual Biography** 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vStDOY5_aIbnLbry0Tfm35gNd38AoUqr7GSCqQWFIm3tEIhpOdNrDVH1XgbzsfVFcNiMQeNTrJsWitZ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+Over the past year, Tate McRae has experienced a surge in popularity for her pop albums and energetic dance performances. As a rising global pop star, Tate McRae has been building towards this success for years. This timeline offers insight into her journey to pop stardom, providing context for her future trajectory.
+
+This project utilizes data from the following source:
+
+* **[Tate McRae Wikipedia](https://tatemcrae.fandom.com/wiki/Tate_McRae):** This biography, compiled by the Tate McRae fandom Wikipedia, highlights key moments in the popstar's life from birth to the present.
 
 ## **U.S. Women's Soccer Attendance** ![National_Women's_Soccer_League_Attendance_Total_Average_Attendance_Attendance_for_Most_Attended_Team_Average_for_Least_Attended_Team_chartbuilder](https://github.com/user-attachments/assets/06944c7d-b683-4787-9c34-6ad0a222bead)
 
@@ -74,3 +85,9 @@ This project utilizes data from the following source:
 ## **World's Top 20 Bike-Friendly Cities** 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1TgyS8zI_3ToBl4iJvbMKhh8DzddgMtw&ehbc=2E312F" width="640" height="480"></iframe>
+
+Transportation profoundly shapes human experience worldwide, from car-dependent suburbs to pedestrian-friendly towns, significantly impacting quality of life. Biking is often viewed positively, and this map quantifies the most bikeable cities globally, revealing a concentration in Europe.
+
+This project utilizes data from the following source:
+
+* **[Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/):** This article from Wired ranks the top 20 cities that are the most bike-friendly. 
