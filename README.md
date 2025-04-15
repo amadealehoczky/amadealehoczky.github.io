@@ -10,7 +10,7 @@ Please see my data journalism portfolio from Spring 2025 below.
 
 This section highlights projects I've developed with a focus on the Lehigh University student experience. Located in Bethlehem, Pennsylvania, Lehigh University is a private institution known for its rigorous academic programs and a dynamic social environment that caters to its 7,692 students. The projects presented here delve into various aspects of student life, including analyses of student demographics and nightlife preferences. Furthermore, this section aims to provide a broader understanding of Lehigh University's position within the vibrant Lehigh Valley region and in comparison to other universities across Pennsylvania.
 
-## **Where do Lehigh undergraduates live?** ![Lehigh Housing Data](https://github.com/amadealehoczky/lehigh-student.github.io/blob/main/4.7%25%20of%20Lehigh%20students%20live%20in.jpg?raw=true)
+## **Lehigh University Undergraduate Housing** ![Lehigh Housing Data](https://github.com/amadealehoczky/lehigh-student.github.io/blob/main/4.7%25%20of%20Lehigh%20students%20live%20in.jpg?raw=true)
 
 This data was reported by the Lehigh University Office of Institutional Data's Fall 2024 Lehigh University profile. The prevalence of on-campus residence hall living underscores its importance to the undergraduate experience and demonstrates that it's an area the university should invest in.
 
